@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title_activity_todo">TodoActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="add_new_item">Adicionar Novo Item</string>
+    <string name="new_item">Novo Item</string>
+
+    <string name="title">Título</string>
+    <string name="description">Descrição</string>
+
+    <string name="title_cannot_be_empty">Título é obrigatório!</string>
+
+    <string name="save">Salvar</string>
+    <string name="close">Fechar</string>
+
+    <string name="delete_item_confirmation_title">Apagar Item</string>
+    <string name="delete_item_confirmation_description">Deseja deletar este item?</string>
+
+    <string name="empty_collection">Lista Vazia!</string>
+</resources>

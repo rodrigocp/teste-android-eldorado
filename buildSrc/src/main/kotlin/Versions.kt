@@ -1,0 +1,15 @@
+object Versions {
+    const val gradle     = "7.0.3"
+    const val kotlin     = "1.5.31"
+    const val corektx    = "4.2.1"
+    const val appcompat  = "1.3.0"
+    const val material   = "1.3.0"
+    const val junit      = "4.12"
+    const val junitext   = "1.1.3"
+    const val espresso   = "3.4.0"
+    const val koin       = "3.1.3"
+    const val room       = "2.3.0"
+    const val lifecycle  = "2.3.1"
+    const val constraint = "2.0.4"
+    const val navigation = "2.3.5"
+}
